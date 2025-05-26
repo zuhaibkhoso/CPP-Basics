@@ -46,7 +46,7 @@ int main() {
 			cout << "\nFinal Output: " << result << "\n" << endl;
 		}
 		
-		if (input == "Q"){
+		if (input == "Q" || input == "q"){
 			return 0;
 		}
 	}
