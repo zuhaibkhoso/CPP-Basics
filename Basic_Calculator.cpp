@@ -19,7 +19,7 @@ int main() {
 			cout << "\nFinal Output: " << result << "\n" << endl;
 		}
 		
-			if (input == "2"){
+		if (input == "2"){
 			cout << "Enter 1st Number: ";
 			cin >> x;
 			cout << "Enter 2nd Number: ";
@@ -28,7 +28,7 @@ int main() {
 			cout << "\nFinal Output: " << result << "\n" << endl;
 		}
 		
-			if (input == "3"){
+		if (input == "3"){
 			cout << "Enter 1st Number: ";
 			cin >> x;
 			cout << "Enter 2nd Number: ";
@@ -37,7 +37,7 @@ int main() {
 			cout << "\nFinal Output: " << result << "\n" << endl;
 		}
 		
-			if (input == "4"){
+		if (input == "4"){
 			cout << "Enter 1st Number: ";
 			cin >> x;
 			cout << "Enter 2nd Number: ";
